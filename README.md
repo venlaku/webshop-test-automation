@@ -17,7 +17,6 @@ Run these commands from the terminal, in order.
 
 ```bash
 git clone https://github.com/venlaku/webshop-test-automation.git
-cd webshop-test-automation
 ```
 
 **2. Install dependencies**
