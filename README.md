@@ -57,6 +57,8 @@ npm test
 
 All six tests should pass.
 
+Here are some extra commands to try:
+
 | Command | What it does |
 |---|---|
 | `npm test` | Runs all tests |
